@@ -1,4 +1,5 @@
 *.swp
+*.idea
 *.swo
 *.DS_Store
 # Prerequisites
